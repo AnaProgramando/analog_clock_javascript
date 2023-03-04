@@ -4,14 +4,14 @@
 
 </div>
 
-![banner Analog Clock - Javascript](https://github.com/AnaProgramando/analog_clock_javascript/blob/c1dd72cb70e055f2e1334567588fd5051b655205/analog_clock_javascript.png)
+![banner Analog Clock - Javascript](https://github.com/AnaProgramando/analog_clock_javascript/blob/b1e685ac4b400cc83f681f4b2a6bddc3e4df9b1d/banner%20relogio%20analogico.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
- <a href="#-javascript---analog-clock">Analog Clock</a> |  
+ <a href="#-javascript---rel%C3%B3gio-anal%C3%B3gico">Relógio Analógico</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
@@ -31,7 +31,7 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 <br>
 
-## <img align="center" alt="Ana-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> Javascript - Analog Clock
+## <img align="center" alt="Ana-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> Javascript - Relógio Analógico
 
 https://user-images.githubusercontent.com/31097110/222932563-ed9bf135-dc3e-43f4-96c7-47644fb14115.mp4
 
