@@ -4,7 +4,7 @@
 
 </div>
 
-![banner Analog Clock - Javascript](https://github.com/AnaProgramando/analog_clock_javascript/blob/b1e685ac4b400cc83f681f4b2a6bddc3e4df9b1d/banner%20relogio%20analogico.png)
+![banner Analog Clock - Javascript](https://github.com/AnaProgramando/analog_clock_javascript/blob/99496526beefc188050a192028c32cc00bf6427b/analog_clock_javascript.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
